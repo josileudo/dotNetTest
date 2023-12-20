@@ -1,0 +1,12 @@
+/Users/josileudo/Documents/projects/back/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/josileudo/Documents/projects/back/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/josileudo/Documents/projects/back/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/josileudo/Documents/projects/back/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/josileudo/Documents/projects/back/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josileudo/Documents/projects/back/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/josileudo/Documents/projects/back/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/josileudo/Documents/projects/back/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/josileudo/Documents/projects/back/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/josileudo/Documents/projects/back/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/josileudo/Documents/projects/back/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/josileudo/Documents/projects/back/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
