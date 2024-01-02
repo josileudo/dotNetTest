@@ -1,0 +1,6 @@
+/Users/josileudo/Documents/projects/back/Calculator/test1/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/josileudo/Documents/projects/back/Calculator/test1/obj/Debug/net7.0/test1.csproj.AssemblyReference.cache
+/Users/josileudo/Documents/projects/back/Calculator/test1/obj/Debug/net7.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josileudo/Documents/projects/back/Calculator/test1/obj/Debug/net7.0/test1.AssemblyInfoInputs.cache
+/Users/josileudo/Documents/projects/back/Calculator/test1/obj/Debug/net7.0/test1.AssemblyInfo.cs
+/Users/josileudo/Documents/projects/back/Calculator/test1/obj/Debug/net7.0/test1.csproj.CoreCompileInputs.cache

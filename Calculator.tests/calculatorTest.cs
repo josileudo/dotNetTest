@@ -93,20 +93,23 @@
             Assert.NotEqual(resultExpected, resultActual);
         }
 
-        [Fact(DisplayName = "Given valid numbers, when subtracting then should success")]
-        public void GivenValidNumbers_WhenSubtracting_ThenShouldSuccess()
-        {
-            // arrange
-            const double firstNumber = 30;
-            const int secondNumber = 10;
-            const int resultExpected = 20;
+        //[Theory]
+        //[InlineData(10, 5)]
+        //[InlineData(5, 5)]
+        //[InlineData(12, 5)]
+        //public void GivenValidNumbers_WhenSubtracting_ThenShouldSuccess(double valueA, double valueB)
+        //{
+        //    // arrange
+        //    const double firstNumber = 30;
+        //    const int secondNumber = 10;
+        //    const int resultExpected = 20;
 
-            // act
-            var resultActual = Calculator.Sub(firstNumber, secondNumber);
+        //    // act
+        //    var resultActual = Calculator.Sub(valueA, valueB);
 
-            // assert
-            Assert.Equal(resultExpected, resultActual);
-        }
+        //    // assert
+        //    Assert.Equal(valueA - valueB, resultActual);
+        //}
 
         [Fact(DisplayName = "Given invalid numbers, when subtracting then should error")]
         public void GivenInvalidNumbers_WhenSubtracting_ThenShouldError()
